@@ -1,8 +1,5 @@
 # Library Management System
-library = [
-    {"Title": "Ghost", "Author": "Richard", "Year of Publication": 2019, "isbn": "BB22", "Available": True},
-    {"Title": "Ghost", "Author": "Richard", "Year of Publication": 2019, "isbn": "BB23", "Available": False}
-]
+library = []
 
 
 def add_book():
